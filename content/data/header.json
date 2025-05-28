@@ -3,5 +3,12 @@
     "secondaryLinks": [],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-dark-fg-light",
-    "type": "Header"
+    "type": "Header",
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-1"
+            ]
+        }
+    }
 }
