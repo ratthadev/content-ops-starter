@@ -36,7 +36,7 @@ sections:
           borderRadius: large
     backgroundImage:
       type: BackgroundImage
-      altText: altText of the image
+      altText: ''
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
