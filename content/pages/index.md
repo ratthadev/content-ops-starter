@@ -39,7 +39,7 @@ sections:
     backgroundImage:
       type: BackgroundImage
       altText: ''
-      backgroundSize: contain
+      backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
