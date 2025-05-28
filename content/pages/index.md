@@ -25,7 +25,7 @@ sections:
         alignItems: center
         padding:
           - pt-0
-        flexDirection: '-reverse'
+        flexDirection: ''
     media:
       type: VideoBlock
       title: Title of the video
