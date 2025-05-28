@@ -19,8 +19,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: >-
-        sources/local/presets/video/ro_final3_animation-ezgif.com-resize-video.mp4
+      url: 'https://www.youtube.com/watch?v=RvGaSPTcTxc'
       autoplay: true
       loop: true
       muted: false
