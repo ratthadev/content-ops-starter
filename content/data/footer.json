@@ -19,7 +19,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "© 2025 Duggoman - All Rights Reserved\n",
+    "copyrightText": ".tagesschrift-regular {\n  font-family: \"Tagesschrift\", system-ui;\n  font-weight: 400;\n  font-style: normal;\n}\n\n© 2025 Duggoman - All Rights Reserved\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
