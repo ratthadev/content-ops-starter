@@ -12,7 +12,7 @@ sections:
         url: google.com
         showIcon: false
         icon: arrowRight
-        iconPosition: left
+        iconPosition: right
         style: primary
         elementId: ''
     badge:
