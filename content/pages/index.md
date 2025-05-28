@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    subtitle: Increase your reach
+    subtitle: ''
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
