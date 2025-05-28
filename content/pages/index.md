@@ -14,6 +14,8 @@ sections:
     styles:
       self:
         alignItems: center
+        padding:
+          - pt-3
     media:
       type: VideoBlock
       title: Title of the video
