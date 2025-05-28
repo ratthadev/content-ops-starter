@@ -106,6 +106,13 @@ sections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
