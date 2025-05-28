@@ -5,13 +5,7 @@ sections:
   - type: GenericSection
     subtitle: ''
     text: ''
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
+    actions: []
     badge:
       type: Badge
       label: This is a badge
