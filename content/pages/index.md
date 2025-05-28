@@ -89,7 +89,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: /images/ro_promo_video.mp4
       autoplay: true
       loop: true
       muted: true
