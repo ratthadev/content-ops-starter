@@ -67,6 +67,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/ro_final3.png
   - title: Divider
     colors: bg-light-fg-dark
     styles:
