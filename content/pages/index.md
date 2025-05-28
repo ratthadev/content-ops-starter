@@ -5,7 +5,16 @@ sections:
   - type: GenericSection
     subtitle: ''
     text: ''
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: google.com
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     badge:
       type: Badge
       label: This is a badge
