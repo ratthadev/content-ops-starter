@@ -3,10 +3,6 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Social Media Management
-      color: text-dark
     subtitle: Increase your reach
     text: >
       A service that helps businesses to manage their social media accounts and
